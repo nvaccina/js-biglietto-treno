@@ -10,4 +10,8 @@ L’output del prezzo finale va messo fuori in forma umana (con massimo due deci
 - Creare il file HTML
 - Chiedere l'età dell'utente e salvarla;
 - Chiedere quanti km vuole percorrere e salvarla;
+- Stabilire il prezzo del biglietto senza sconti;
+- Inserire le condizioni per poter usufruire degli sconti;
+- Calcolare il prezzo del biglietto in base all'età, ai km e allo sconto se presente;
+- Mostrare il prezzo del biglietto con due decimali, per indicare centesimi sul prezzo.
 
